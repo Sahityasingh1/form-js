@@ -1,0 +1,120 @@
+#fname {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 30px;
+}
+
+#mname {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 30px;
+}
+
+#lname {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 30px;
+}
+
+#age {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 30px;
+}
+
+#all {
+    background-color: lightgray;
+    margin-left: 40px;
+    margin-top: 40px;
+    margin-right: 40px;
+    padding-top: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 40px;
+    margin-bottom: 40px;
+    /*  background-image: url("https://i.pinimg.com/736x/7a/ab/7e/7aab7e24b72923101ff8dc40afe3e31e.jpg"); */
+}
+
+#country {
+    width: 55%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 30px;
+}
+
+#occupation {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 30px;
+    padding: 8px 20px;
+}
+
+#phone {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 30px;
+}
+
+#sub {
+    color: white;
+    width: 50%;
+    background-color: black;
+    ;
+    margin-top: 10px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+}
+
+#sub:hover {
+    background-color: limegreen;
+}
+
+#form {
+    background-color: rgb(45, 169, 185);
+    padding-top: 100px;
+    padding-right: 200;
+    padding-bottom: 100px;
+    margin-left: 300px;
+    margin-right: 250px;
+}
+
+body {
+    background-color: white;
+    /*background-image: url("https://i.pinimg.com/736x/7a/ab/7e/7aab7e24b72923101ff8dc40afe3e31e.jpg");*/
+    position: relative;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th,
+td {
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
